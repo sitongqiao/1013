@@ -12,7 +12,7 @@ We only do the publicity work for the time being. if you are interested in joini
 
 ## 事件 Event
 
-事件本身的相关信息在[维基百科](https://zh.wikipedia.org/wiki/北京四通桥抗议)上已有较为详细的描述（[2022-10-19的备份](/wikipedia-zh.pdf)）。
+事件本身的相关信息在[维基百科](https://zh.wikipedia.org/wiki/北京四通桥抗议)上已有较为详细的描述（[2022-10-19的备份](/wikipedia-zh.pdf)，墙内可用）。
 
 The description of the event itself is being detailed on [Wikipedia](https://en.wikipedia.org/wiki/Beijing_Sitong_Bridge_protest).
 
@@ -27,6 +27,6 @@ Below are some high-quality images we could find on Internet.
 ![Sitong3.jpg](/Sitong3.jpg)
 
 在抗议前，彭立发（目前公认的抗议者）通过推特发表了自己在 ResearchGate 上的一篇有关文章。该文章随后被 ResearchGate 删除，可[点击此处](/PengZaizhou-tutorial.pdf
-)查看备份。
+)查看备份（目前无需梯子）。
 
-Before the protest, Peng Zaizhou (who is considered as the protester publicly) published a passage he written on ResearchGate via Twitter. It has been deleted by ResearchGate, and you can [click me](/PengZaizhou-tutorial.pdf) to read the backup.
+Before the protest, Peng Zaizhou (who is considered as the protester publicly) published a passage he written on ResearchGate via Twitter. It has been deleted by ResearchGate, and you can [click me](/PengZaizhou-tutorial.pdf) to read the backup (available inside the GFW up to now).
