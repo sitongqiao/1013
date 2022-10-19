@@ -6,7 +6,7 @@
 
 Welcome to Beijing Sitong Bridge Protest Organization!
 
-获取抗议事件相关的文件，详见 https://github.com/sitongqiao/1013。
+获取抗议事件相关的文件，详见 [https://github.com/sitongqiao/1013](https://github.com/sitongqiao/1013) 。
 
 Please view [https://github.com/sitongqiao/1013](https://github.com/sitongqiao/1013) to see more about the protest.
 
