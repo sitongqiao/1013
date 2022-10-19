@@ -6,6 +6,10 @@
 
 Welcome to Beijing Sitong Bridge Protest Organization!
 
+获取抗议事件相关的文件，详见 https://github.com/sitongqiao/1013。
+
+Please view [https://github.com/sitongqiao/1013](https://github.com/sitongqiao/1013) to see more about the protest.
+
 我们暂时仅做宣传工作。如果你有兴趣加入我们共同壮大组织，请联系 [admin@sitongqiao.org](mailto:admin@sitongqiao.org)（必须确保您的邮箱服务商可以连接墙外服务器）。
 
 We only do the publicity work for the time being. if you are interested in joining us to expand the organization together, please contact us by [admin@sitongqiao.org](mailto:admin@sitongqiao.org) (please ensure that your email service provider can connect to the server outside the GFW).
