@@ -12,7 +12,7 @@ We only do the publicity work for the time being. if you are interested in joini
 
 ## 事件 Event
 
-事件本身的相关信息在[维基百科](https://zh.wikipedia.org/wiki/北京四通桥抗议)上已有较为详细的描述（[2022-10-19的备份](/wikipedia-zh.pdf)，墙内可用）。
+事件本身的相关信息在[维基百科](https://zh.wikipedia.org/wiki/北京四通桥抗议)上已有较为详细的描述（[2022-10-19的备份](/wikipedia-zh.pdf)，目前墙内可用）。
 
 The description of the event itself is being detailed on [Wikipedia](https://en.wikipedia.org/wiki/Beijing_Sitong_Bridge_protest).
 
