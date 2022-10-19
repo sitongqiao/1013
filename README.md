@@ -26,8 +26,6 @@ Below are some high-quality images we could find on Internet.
 
 ![Sitong3.jpg](/Sitong3.jpg)
 
-![Sitong4.jpg](/Sitong4.jpg)
-
 在抗议前，彭立发（目前公认的抗议者）通过推特发表了自己在 ResearchGate 上的一篇有关文章。该文章随后被 ResearchGate 删除，可[点击此处](/PengZaizhou-tutorial.pdf
 )查看备份。
 
