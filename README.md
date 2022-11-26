@@ -1,5 +1,9 @@
 # 北京四通桥抗议事件组织 Beijing Sitong Bridge Protest Organization
 
+**我们很高兴，在一个多月后，看到了四通桥事件后越来越多的群众[走上街头](https://github.com/sitongqiao/march-and-demonstrate)。**
+
+**We are happy to see that a month after Sitong Bridge protest, more and more citizens [go march and demonstrate on the street](https://github.com/sitongqiao/march-and-demonstrate).**
+
 ## 前言 Beginning
 
 欢迎访问北京四通桥事件组织！
